@@ -1,4 +1,0 @@
-Hola! Cómo estás? 
-Estoy aprendiendo a usar en Git y GitHub.
-
-La fecha de hoy es 4 de Noviembre de 2024.
